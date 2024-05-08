@@ -1,0 +1,3 @@
+INSERT INTO STAFF(StaffName,FirstName,LastName,MOBILE) VALUES ('Nandha','KUMAR','GK',838485);
+
+SELECT *FROM STAFF;
